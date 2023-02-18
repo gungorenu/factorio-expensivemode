@@ -5,7 +5,7 @@
   "title": "Expensive Mode",
   "author": "gungorenu",
   "contact": "",
-  "homepage": "",
+  "homepage": "https://github.com/gungorenu/factorio-expensivemode",
   "description": "Expensive mode recipe changes as mod for normal",
   "dependencies": ["base >= 1.1.0"]
 }
